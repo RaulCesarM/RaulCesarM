@@ -10,7 +10,7 @@ Sou estudante de tecnologia e entusiasta de algoritmos em java
 Skills: C / Java
 
 
-<P> [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<P> [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ,
 
 
 
