@@ -1,9 +1,9 @@
-### Hi there 👋
+### Ola meu amigo👋
 
 
 **Meu nome é Raul Cesar e seja muito bem vindo ao meu Git Hub** 
 
--eu sou estudante de tecnologia e entusiasta de algoritmos em java
+Sou estudante de tecnologia e entusiasta de algoritmos em java
 
 Skills: C / Java
 
