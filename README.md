@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Meu nome é Raul Cesar e seja muito bem vindo ao meu Git Hub** 
 
 -eu sou estudante de tecnologia e entusiasta de algoritmos em java
