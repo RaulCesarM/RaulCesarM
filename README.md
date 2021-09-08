@@ -20,14 +20,14 @@
 
 Sou estudante de tecnologia e entusiasta de algoritmos em java
 
-Skills: C / Java /C# / .NET CORE
+Skills: C / Java / C# / .NET CORE / HTML5
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
