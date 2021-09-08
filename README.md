@@ -12,6 +12,7 @@ Skills: C / Java /C# / .NET CORE
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
