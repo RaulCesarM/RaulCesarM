@@ -14,8 +14,7 @@
 
 ### Ola meu amigo👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RaulCesarM)](https://github.com/RaulCesarM)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulcesarmulerschat/)](https://www.linkedin.com/in/raulcesarmulerschat/)
+
 
 **Meu nome é Raul Cesar e seja muito bem vindo ao meu Git Hub** 
 
@@ -28,7 +27,12 @@ Skills: C / Java / C# / .NET CORE / HTML5
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-
+<p>
+  
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RaulCesarM)](https://github.com/RaulCesarM)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulcesarmulerschat/)](https://www.linkedin.com/in/raulcesarmulerschat/)
+  
+  </p>
 
 
 
