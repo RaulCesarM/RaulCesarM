@@ -20,7 +20,22 @@
 
 Sou estudante de tecnologia e entusiasta de algoritmos em java
 
-Skills: C / Java / C# / .NET CORE / HTML5
+<H2>Skills:</H2> </BR>
+<P>
+<img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/bootstrap.png"/><img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/><img src="https://img.icons8.com/fluency/96/000000/visual-studio-2019.png"/><img src="https://img.icons8.com/officel/96/000000/java-eclipse.png"/></P>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
