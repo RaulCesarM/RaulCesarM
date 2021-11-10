@@ -55,7 +55,15 @@ Back End
 
 
  
+<p>
+ 
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="raulcesarmulerschat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/raulcesarmulerschat?trk=profile-badge">Raul Cesar Mulerschat</a></div>
+ 
+ </p>
 
+ 
+ 
+ </p>
 
 
 
