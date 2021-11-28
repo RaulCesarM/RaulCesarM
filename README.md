@@ -1,11 +1,12 @@
 
-![Capturar](https://user-images.githubusercontent.com/37316110/141213086-8919e60b-614a-40cc-b996-5b469d2d95f8.PNG)
 
 
 
 
 
 
+
+![homer-informatica](https://user-images.githubusercontent.com/37316110/143765879-aae26307-cf69-4714-a1f7-1948a04e0038.gif)
 
 
 
@@ -18,7 +19,7 @@
 
 **Meu nome é Raul Cesar e seja muito bem vindo ao meu Git Hub** 
 
-Sou estudante de tecnologia e entusiasta de algoritmos em java
+Sou estudante de tecnologia !
 
 <p>
  
