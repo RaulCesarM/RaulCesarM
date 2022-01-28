@@ -50,10 +50,10 @@
  
  <tr>
     <td>  <img src="https://img.icons8.com/color/45/000000/postgreesql.png" width="45" alt="psql"/> </td>
-    <td>  </td>
+    <td>  <img src="https://user-images.githubusercontent.com/37316110/151627498-25199bd8-8115-42c5-aaea-e0923add11c1.png" width="45" alt="aspnetcore"/> </td>
     <td> <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/></td>
     <td>  <img src="https://img.icons8.com/officel/45/000000/java-eclipse.png"/></td>
-    <td>  </td>
+    <td> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="45" alt="pstman"/> </td>
   </tr>
  
   <tr>
@@ -75,7 +75,8 @@
 </table>
     
 
- 
+
+
 
 
 
