@@ -61,12 +61,7 @@ Back End
 
 
 
- 
-<p>
- 
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="raulcesarmulerschat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/raulcesarmulerschat?trk=profile-badge">Raul Cesar Mulerschat</a></div>
- 
- </p>
+
 
  
  
@@ -74,7 +69,7 @@ Back End
 
 
 
-<a href="http://www.contadordevisitas.net.br/detalhes/V7" target="_blank"><img src="https://www.contadordevisitas.net.br/V7/" alt="Contador de Visita" title="Contador de Visita"></a><br><a href="http://www.contador-gratis.com/contador-de-dias" target="_blank"><span>calcula prazo</span></a>
+
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
