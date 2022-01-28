@@ -66,6 +66,9 @@ Back End
  
  
  </p>
+<!-- Inicia codigo Contador -->
+<div align="center"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-sTca6tXQlt6prDaH-42.gif' border='0' alt='Contador de visitas'></a></div>
+<!-- Fim do codigo Contador -->
 
 
 
