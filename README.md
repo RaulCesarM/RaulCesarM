@@ -35,11 +35,32 @@ Sou estudante de tecnologia !
 
 <H2>Skills:</H2> </BR>
 </br>
+Data Bases
+</br>
+</br>
+<P>
+ 
+ <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/>
+ <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
+ <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
+ 
+ 
+ 
+ 
+
+ </p>
+ </br>
+
+
+
+
+
+
 Back End
 </br>
 </br>
 <P>
-<img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
  </p>
  </br>
  Front End
@@ -47,6 +68,8 @@ Back End
  </br>
  <P>
  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/><img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+ 
   </p>
  </br>
  Integrated Development Environment
@@ -58,6 +81,18 @@ Back End
 </br>
 </br>
 
+other skills
+ </br>
+ </br>
+  <P>
+
+ <img src="https://img.icons8.com/color/96/000000/npm.png"/>
+ <img src="https://img.icons8.com/color/96/000000/git.png"/>
+ 
+ 
+  </p>
+</br>
+</br>
 
 
 
