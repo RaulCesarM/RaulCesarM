@@ -10,8 +10,8 @@
   <p> Here I present to you some of my Skills and Abilities </p>
  
  
- <p><a align="center" href="https://www.linkedin.com/in/raulcesarmulerschat/" target="blank">Linkedin</a></p>
- <p><a align="center" href="https://rcm-dev.vercel.app/" target="blank">Visit may personal Website</a></p>
+ <p><a align="center" href="https://www.linkedin.com/in/raulcesarmulerschat/" target="_blank" >Linkedin</a></p>
+ <p><a align="center" href="https://rcm-dev.vercel.app/" target="_blank" >Visit may personal Website</a></p>
 
 
 
