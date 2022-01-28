@@ -1,115 +1,101 @@
 
-
-
-
-
-
-
-
-![homer-informatica](https://user-images.githubusercontent.com/37316110/143765879-aae26307-cf69-4714-a1f7-1948a04e0038.gif)
-
-
-
-
-
-
-### Ola meu amigo👋
-
-
-
-**Meu nome é Raul Cesar e seja muito bem vindo ao meu Git Hub** 
-
-Sou estudante de tecnologia !
-
-<p>
- 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulcesarmulerschat/)](https://www.linkedin.com/in/raulcesarmulerschat/)
-  
-  </p>
-  
-  <p>
- Meu site Pessoal
- https://rcm-dev.vercel.app/
- </p>
-
-
-<H2>Skills:</H2> </BR>
-</br>
-Data Bases
-</br>
-</br>
-<P>
- 
- <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/>
- <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
- <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
- 
- 
- 
+<div>
+ <img align="left" src="https://user-images.githubusercontent.com/37316110/151616495-a2d0dfb0-9959-4b2e-a722-f3299aedfe8d.JPG" alt="Minha Figura">
  
 
- </p>
- </br>
-
-
-
-
-
-
-Back End
-</br>
-</br>
-<P>
-<img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
- </p>
- </br>
- Front End
- </br>
- </br>
- <P>
- <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/><img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+  <p>  Hello my friend </p>
+  <p>  My name is Raul Cesar </p>
+  <p>  and welcome to my Git Hub.  </p>
+  <p> I'm a technology student, </p>
+  <p> Here I present to you some of my Skills and Abilities </p>
  
-  </p>
- </br>
- Integrated Development Environment
- </br>
- </br>
-  <P>
- <img src="https://img.icons8.com/fluency/96/000000/visual-studio-2019.png"/><img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/officel/96/000000/java-eclipse.png"/></P>
-  </p>
-</br>
+ 
+ <p><a align="center" href="https://www.linkedin.com/in/raulcesarmulerschat/">Linkedin</a></p>
+ <p><a align="center" href="https://rcm-dev.vercel.app/">Visit may personal Website</a></p>
+
+
+
+
+
+<H2  align="center">Skills:</H2> </BR>
+
+
+
 </br>
 
-other skills
- </br>
- </br>
-  <P>
 
- <img src="https://img.icons8.com/color/96/000000/npm.png"/>
- <img src="https://img.icons8.com/color/96/000000/git.png"/>
+<table style="width:100%" align="center">
+  <tr>
+    <th>Data Bases</th>
+    <th>Back End</th>
+    <th>Front End</th>
+    <th>IDE</th>
+    <th>Other Skills</th>
+  </tr>
+   <tr>
+    <td>  <img src="https://img.icons8.com/color/45/000000/microsoft-sql-server.png" width="45" alt="mssql"/> </td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/c-sharp-logo.png" width="45" alt="C#"/></td>
+    <td> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></td>
+    <td> <img src="https://img.icons8.com/fluency/45/000000/visual-studio-2019.png"/></td>
+    <td> <img src="https://img.icons8.com/color/45/000000/npm.png"/></td>
+  </tr>
  
+  <tr>
+    <td>  <img src="https://img.icons8.com/color/45/000000/mysql-logo.png" width="45" alt="mysql"/> </td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo--v1.png"/></td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/bootstrap.png"/></td>
+    <td> <img src="https://img.icons8.com/fluency/45/000000/visual-studio-code-2019.png"/></td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/git.png"/></td>
+  </tr>
  
-  </p>
+ <tr>
+    <td>  <img src="https://img.icons8.com/color/45/000000/postgreesql.png" width="45" alt="psql"/> </td>
+    <td>  </td>
+    <td> <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/></td>
+    <td>  <img src="https://img.icons8.com/officel/45/000000/java-eclipse.png"/></td>
+    <td>  </td>
+  </tr>
+ 
+  <tr>
+    <td>   </td>
+    <td>  </td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/css3.png"/></td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+ 
+ <tr>
+    <td>   </td>
+    <td>  </td>
+    <td>  <img src="https://img.icons8.com/color/45/000000/javascript--v1.png"/></td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+ 
+</table>
+    
+
+ 
+
+
+
+<div align="center">
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 
 
-
+</div>
 
  
- 
- </p>
 <!-- Inicia codigo Contador -->
 <div align="center"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-sTca6tXQlt6prDaH-42.gif' border='0' alt='Contador de visitas'></a></div>
 <!-- Fim do codigo Contador -->
 
 
 
-
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 
