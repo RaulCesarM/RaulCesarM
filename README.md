@@ -80,22 +80,6 @@
 
 
 
-<div align="center">
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RaulCesarM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCesarM&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-
-
-
-</div>
-
- 
-<!-- Inicia codigo Contador -->
-<div align="center"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-sTca6tXQlt6prDaH-42.gif' border='0' alt='Contador de visitas'></a></div>
-<!-- Fim do codigo Contador -->
 
 
 
