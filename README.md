@@ -9,15 +9,12 @@
 
 
 
-- 🔭 Atualmente estou fazendo o [LottoLab](https://github.com/RaulCesarM/LottoLab)
+- 🔭 Atualmente estou fazendo o projeto pessoal [LottoLab](https://github.com/RaulCesarM/LottoLab)     - 🌱 Estou inciando em   Dart -Flutter
 
-- 🌱 I’m currently learning **Java - Dart -Flutter**
 
-- 👯 Já colaborei com o [DevInCourses](https://github.com/DEVin-NDD/DEVinCourses-m3p2-back-end)
 
-- 💬 Faça uma pergunta sobre **Java, c# , .net core e Angular 2+**
 
-- 📫 Pode me contatar em **raulcesardesenvolvimento@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
