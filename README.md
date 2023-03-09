@@ -1,13 +1,9 @@
 <h1 align="center">👋, Olá! Sou Raul Cesar Mulerschat</h1>
 <h3 align="center">Seja bem vindo amigo !!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulcesarm&rank=SECRET SSS SS S AAA AA A B C" alt="raulcesarm" /></a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulcesarm&no-bg=true&title=Stars,Followers,Repositories,PullRequest,MultipleLang,MultLanguage,SECRET,SS" alt="raulcesarm" /></a> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulcesarm&no-bg=true" alt="raulcesarm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulcesarm&no-bg=true&no-frame=true" alt="raulcesarm" /></a> </p>
 
 
 
