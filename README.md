@@ -1,9 +1,10 @@
 <h1 align="center">👋, Olá! Sou Raul Cesar Mulerschat</h1>
 <h3 align="center">Seja bem vindo amigo !!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulcesarm&label=Profile%20views&color=0e75b6&style=flat" alt="raulcesarm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulcesarm" alt="raulcesarm" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar" alt="raulcesarm" /></a> </p>
+
 
 - 🔭 Atualmente estou fazendo o [LottoLab](https://github.com/RaulCesarM/LottoLab)
 
