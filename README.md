@@ -1,3 +1,11 @@
+<head>
+ 
+</head>
+ <body style="color: white; background-color: black; padding: 10px;">
+ 
+ 
+  
+  
 <h1 align="center">👋, Olá! Sou Raul Cesar Mulerschat</h1>
 <h3 align="center">Seja bem vindo amigo !!!</h3>
 
@@ -29,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulcesarm&show_icons=true&theme=transparent" alt="raulcesarm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulcesarm&show_icons=true&theme=transparent" alt="raulcesarm" /></p>
+
+
+ </body>
