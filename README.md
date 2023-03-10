@@ -1,8 +1,4 @@
-<head>
- 
-</head>
- <body style="color: white; background-color: black; padding: 10px;">
- 
+
  
   
   
@@ -39,4 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulcesarm&show_icons=true&theme=transparent" alt="raulcesarm" /></p>
 
 
- </body>
