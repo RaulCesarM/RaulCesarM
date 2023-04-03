@@ -13,7 +13,8 @@
 
 
 
-- 🔭 Atualmente estou fazendo o projeto pessoal [LottoLab](https://github.com/RaulCesarM/LottoLab)     - 🌱 Estou inciando em   Dart -Flutter
+- 🔭 Atualmente estou fazendo o projeto pessoal [LottoLab](https://github.com/RaulCesarM/LottoLab)  
+- e trabalhando em uma empresa de sistemas bancarios   - 🌱 Estou inciando em   Dart -Flutter
 
 
 
